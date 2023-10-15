@@ -1,5 +1,7 @@
 Sales DashBoard and Forecating
-Objective - Contribute to the success of business by utilising data analysis techniques, focusing on time series analysis to provide valuable insights and accurate sales forecasting.
+
+Objective - Contribute to the success of business by utilising data analysis techniques, focusing on time series analysis to provide valuable insights and accurate 
+            sales forecasting.
 Description :
 1. DashBoard Creation - identify the KPI's and prepatare a intutive and visually appealing dashboard
 2. Data analysis - Provide valuable insights to business entities
